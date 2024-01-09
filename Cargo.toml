@@ -1,0 +1,13 @@
+[package]
+name = "invader-game"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.12"
+bevy_simple_text_input = "0.3.1"
+rand = "0.8.5"
+local-ip-address = "0.5.6"
+
